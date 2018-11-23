@@ -1,4 +1,5 @@
 var gulp        = require('gulp'),
+	deploy		= require('gulp-gh-pages'),
 	plumber     = require('gulp-plumber'),
 	browserSync = require('browser-sync'),
 	stylus      = require('gulp-stylus'),
@@ -96,3 +97,11 @@ gulp.task('watch', function () {
  * compile the jekyll site, launch BrowserSync & watch files.
  */
 gulp.task('default', ['js', 'stylus', 'browser-sync', 'watch']);
+
+/**
+ * Push build to gh-pages
+ */
+gulp.task('deploy', function () {
+	return gulp.src("./dist/**/*")
+	  .pipe(deploy())
+  });
