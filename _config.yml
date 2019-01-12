@@ -4,7 +4,7 @@
 # Site settings
 title: Gen3Sec
 description: |
-  Technology | Information Security
+  Information Technology | Information Security
 owner: Gen3Sec
 first_published: 2019 # if migrating another site, the year of your first publish
 email: gen3sec@gen3sec.io
@@ -13,8 +13,8 @@ url: "https://gen3sec.io" # the base hostname & protocol for your site
 social:
   twitter: https://twitter.com/gen3sec
   github: https://github.com/gen3sec
-  linkedin-square: https://linkedin.com/in/<username>
-  facebook-official: https://facebook.com/<username>
+  #linkedin-square: https://linkedin.com/in/<username>
+  #facebook-official: https://facebook.com/<username>
   #google-plus-square: https://plus.google.com/u/0/+<username>
   #email: /contact/
   #flickr:
