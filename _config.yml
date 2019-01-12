@@ -11,12 +11,12 @@
 # (Using that method instead of site.owner, in case your posts get cloned with your repo.)
 
 # Site settings
-title: Gen3Sec
+title: GEN3SEC
 description: Information Technology | Information Security 
 owner:
   name: Gen3Sec # or company name
   url: "https://gen3sec.io" # your URL
-first_published: 2010 # if migrating another site, the year of your first publish
+first_published: 2019 # if migrating another site, the year of your first publish
                       # Must be a 4-digit integer year (math is used on it)
 url: "http://example.com" # the base hostname & protocol for this site
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -36,11 +36,11 @@ closing-para: _Your detailed closing_
 
 # on all pages (and the first three you list display with greeting, if included)
 social:
-  twitter: https://twitter.com/_username_
-  github: https://github.com/_username_
-  linkedin-square: https://linkedin.com/in/_username_
-  facebook-official: https://facebook.com/_username_
-  google-plus-square: https://plus.google.com/u/0/+_username_
+  twitter: https://twitter.com/gen3sec
+  github: https://github.com/gen3sec
+  #linkedin-square: https://linkedin.com/in/_username_
+  #facebook-official: https://facebook.com/_username_
+  #google-plus-square: https://plus.google.com/u/0/+_username_
   email: /contact/ # you can configure and use this contact page or use your email addy
   #flickr:
   #instagram:

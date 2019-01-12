@@ -1,10 +1,9 @@
 # authors
 
-arkadianriver:
-  name: Gary Faircloth
+GEN3SEC:
+  name: Gen3Sec
   bio: >
-    Interests: tech writing, programming, science, history.
-    You might also find me playing some PC Ga&mdash;SQUIRREL!
-  disqus_shortname: arkadianriver
-  url: http://arkadianriver.com
+    Interests: Technology, security, Python, PowerShell and more!
+  disqus_shortname: gen3sec
+  url: https://gen3sec.io
   avatar: gar.jpg
