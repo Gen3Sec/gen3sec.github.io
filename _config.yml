@@ -11,11 +11,11 @@
 # (Using that method instead of site.owner, in case your posts get cloned with your repo.)
 
 # Site settings
-title: _site name_
-description: _description_
+title: Gen3Sec
+description: Information Technology | Information Security 
 owner:
-  name: _your name_ # or company name
-  url: "http://example.com" # your URL
+  name: Gen3Sec # or company name
+  url: "https://gen3sec.io" # your URL
 first_published: 2010 # if migrating another site, the year of your first publish
                       # Must be a 4-digit integer year (math is used on it)
 url: "http://example.com" # the base hostname & protocol for this site
