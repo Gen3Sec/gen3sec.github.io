@@ -1,3 +1,7 @@
+# gen3sec.io
+
+I forked this theme from arkadianriver.com (see below) which was from html5up.net/spectral - you should check out that site for some incredible themes! See below for instructions by @ajlkn on how to use this theme. He did a fantastic job on the modifications. Thanks to both for the ability to implement this for my site!
+
 # arkadianriver.com
 
 My personal web site, using the awesome design of http://html5up.net/spectral by
