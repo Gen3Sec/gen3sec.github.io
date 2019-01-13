@@ -31,7 +31,7 @@ greeting:
   title: Welcome to GEN3SEC  
   text: Catch the latest updates, information, and projects by following along below.
 # - displayed at the bottom
-closing-head: Thanks for stopping by the site.
+closing-head: Thanks for stopping by!
 closing-para: Follow the journey or reach out using the buttons below. 
 
 # on all pages (and the first three you list display with greeting, if included)
