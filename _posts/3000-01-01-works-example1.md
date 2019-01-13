@@ -8,6 +8,10 @@ tags:
   - This
   - That
   - The other
+# for Disqus
+layout: default
+comments: true
+# other options
 ---
 
 #### Results
