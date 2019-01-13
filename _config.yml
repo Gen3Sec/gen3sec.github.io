@@ -18,7 +18,7 @@ owner:
   url: "https://gen3sec.io" # your URL
 first_published: 2019 # if migrating another site, the year of your first publish
                       # Must be a 4-digit integer year (math is used on it)
-url: "http://example.com" # the base hostname & protocol for this site
+url: "https://gen3sec.io" # the base hostname & protocol for this site
 baseurl: "" # the subpath of your site, e.g. /blog
             # Note you'll have to move your robots.txt to the root if you want it used.
             # And list multiple sitemaps if there are other subdirectories you want indexed
@@ -28,11 +28,11 @@ lang: en-us # used in HTML lang attributes
 # on landing page
 # - set the greeting only if you want to display the first green section
 greeting:
-  title: _Your greeting_  
-  text: _Your detailed greeting text_
+  title: Welcome to GEN3SEC  
+  text: Catch the latest updates, information, and projects by following along below.
 # - displayed at the bottom
-closing-head: _Your closing_
-closing-para: _Your detailed closing_
+closing-head: Thanks for checking out the website.
+closing-para: Congratulations, you made it to the bottom! Feel free to tag along on the journey by following Twitter and GitHub. Want to reach out? Use the contant button.
 
 # on all pages (and the first three you list display with greeting, if included)
 social:
