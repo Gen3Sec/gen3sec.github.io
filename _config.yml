@@ -31,8 +31,8 @@ greeting:
   title: Welcome to GEN3SEC  
   text: Catch the latest updates, information, and projects by following along below.
 # - displayed at the bottom
-closing-head: Thanks for checking out the website.
-closing-para: Congratulations, you made it to the bottom! Feel free to tag along on the journey by following Twitter and GitHub. Want to reach out? Use the contant button.
+closing-head: Thanks for stopping by the site.
+closing-para: Follow the journey or reach out using the buttons below. 
 
 # on all pages (and the first three you list display with greeting, if included)
 social:
