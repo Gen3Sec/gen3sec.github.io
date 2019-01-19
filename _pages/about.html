@@ -1,0 +1,37 @@
+---
+key: 3
+title: About
+permalink: /about/
+excerpt: Previous adventures!
+image: about.jpg
+background-image: about.jpg
+---
+{%
+if site.social.linkedin-square %}
+<div class="table-wrapper">
+  <table class="alt"><tbody><tr><td style="text-align: center;">Visit my
+  <a target="_blank" href="{{ site.social.linkedin-square }}">LinkedIn profile</a></td>
+  </tr></tbody></table>
+</div>{%
+endif %}
+{%
+if site.categories.about %}
+<div class="table-wrapper">
+  <table>
+    <tbody>{%
+      include fn_groupsort_reverse.html unsorted=site.categories.about groupby='priority' sortby='date'
+%}{%  for work in sorted_list %}
+      <tr>
+        <td><b><a href="{{ about.url | prepend: site.baseurl }}">{{ about.title }}</a></b></td>
+        <td>{{ work.date | date: "%b %Y" }}</td>
+        <td>{{ work.excerpt | strip_html | truncatewords: 12 }}</td>
+        <td>
+          {% include techlist.html %}
+        </td>
+      </tr>{%
+      endfor %}
+    </tbody>
+  </table>
+</div>{%
+endif
+%}
