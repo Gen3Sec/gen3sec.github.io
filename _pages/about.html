@@ -20,7 +20,7 @@ endif %}
 <hr style="margin:0 0 1em 0;" />
 <h4>Featured</h4>
 <ul class="post-list">{%
-    for post in site.categories.topics %}{%
+    for post in site.categories.about %}{%
       if post.tags contains "featured" %}
   <li>
     <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
