@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Last topic in group
-excerpt: last topic
+excerpt: Testing topics
 categories:
   - topics
   - my topic group
