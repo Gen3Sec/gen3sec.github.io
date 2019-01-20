@@ -7,15 +7,21 @@ background-image: works-sample.png
 date: 2013-02-23
 tags:
   - risk management
+  - secure business enablement
   - enterprise security
   - SaaS
+  - awareness training
+  - security culture
+  - hipaa
 ---
 
-#### Results
+#### Achievements
 
-- 24% increase in M, measured by N
+- Implementation of 
 - ...
 
 #### Summary
 
-Project Y involved ....
+Initially, implementented internal IT infrastructure to promote collaboration and productivity in a purely remote, distributed environment.
+
+Developed governance to achieve HIPAA compliance and security program based on NIST 800-53 framework. Promoted a culture of security through implementing an ambassador program. Led awareness training through tools and weekly live stand-ups for education on both IT and security to create an environment of secure productivity. Designed a cost-effective 3-year roadmap to increase security posture and maturity.  
