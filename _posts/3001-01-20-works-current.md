@@ -17,7 +17,7 @@ tags:
 
 #### Achievements
 
-- Implementation of 
+- Implementation of governance, inluding policies and standards
 - ...
 
 #### Summary
