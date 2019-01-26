@@ -28,8 +28,10 @@ tags:
 
 #### Summary
 
-Initially, implementented internal IT infrastructure to promote collaboration and productivity in a purely remote, distributed environment.
+I had the opportunity to deploy and support the internal IT infrastructure to promote collaboration and productivity in a purely remote, distributed environment. I worked with each business unit to help them learn, and use the new tools and applications. I also assisted them in creating the structure to fit their team and ensure teamwork and efficiency.
 
-Developed governance to achieve HIPAA compliance and security program based on NIST 800-53 framework. Promoted a culture of security through implementing an ambassador program. Led awareness training through tools and weekly live stand-ups for education on both IT and security to create an environment of secure productivity. Designed a cost-effective 3-year roadmap to increase security posture and maturity.
+I implemented enterprise governance to achieve HIPAA compliance and security program based on the NIST 800-53 framework. Promoted a culture of security through implementing an ambassador program. Led awareness training through tools and weekly live stand-ups for education on both IT and security to create an environment of secure productivity. Designed and executed a cost-effective 3-year roadmap to increase security posture and maturity.
 
 One of the initiatives I am most excited about accompishing was the creation of weekly live trainings. I also provided, recorded tips & techniques, and one-on-one education for about 200 employees. The awareness program included information for business and personal environments to holistically assist employees in strengthening their security posture. Employees provided fantastic feedback and were thankful for the increase security in their personal lives, as well.
+
+It has been a fantastic time of growth and maturity with a great team that has better positioned us in the market place for new business opportunites.
