@@ -3,7 +3,7 @@ priority: 0.7
 title: Security Officer
 excerpt: Developed and currently leading security program for SaaS EHR
 categories: works
-background-image: works-sample.png
+background-image: works-sample.jpg
 date: 2013-02-23
 tags:
   - risk management
