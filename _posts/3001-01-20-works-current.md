@@ -18,7 +18,10 @@ tags:
 #### Achievements
 
 - Implementation of governance, inluding policies and standards
-- ...
+- Security awareness training and culture development
+- Cost-effective approach and design 3-year-roadmap
+- Improved security posture while enabling business
+- Education of Senior Leadership and Board
 
 #### Summary
 
