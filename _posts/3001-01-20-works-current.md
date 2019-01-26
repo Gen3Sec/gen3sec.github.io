@@ -7,8 +7,10 @@ background-image: works-sample.jpg
 date: 2013-02-23
 tags:
   - risk management
+  - incident response
   - secure business enablement
   - enterprise security
+  - interviews and investigations
   - SaaS
   - awareness training
   - security culture
@@ -30,4 +32,4 @@ Initially, implementented internal IT infrastructure to promote collaboration an
 
 Developed governance to achieve HIPAA compliance and security program based on NIST 800-53 framework. Promoted a culture of security through implementing an ambassador program. Led awareness training through tools and weekly live stand-ups for education on both IT and security to create an environment of secure productivity. Designed a cost-effective 3-year roadmap to increase security posture and maturity.
 
-One of my initiatives was the creation of weekly live trainings, as well as, recorded tips & techniques, and one-on-one education for about 200 employees. I provided awareness for business and personal environments to holistically assist employees in strengthening their security posture. 
+One of the initiatives I am most excited about accompishing was the creation of weekly live trainings, as well as, recorded tips & techniques, and one-on-one education for about 200 employees. I provided awareness for business and personal environments to holistically assist employees in strengthening their security posture. Employees provided fantastic feedback and were thankful for the increase security in their personal lives, as well.
