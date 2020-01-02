@@ -2,8 +2,8 @@
 name: "Gen3Sec"
 title: "Gen3Sec"
 description: "Fun area to explore all things tech, especially security."
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+logo: 'assets/images/g3s_logo.png'
+favicon: 'assets/images/favicon.ico'
 baseurl: /
 google_analytics: 'UA-46278016-1'
 disqus: 'demowebsite'
@@ -17,7 +17,7 @@ authors:
     name: Gen3Sec
     display_name: Gen3Sec
  #   gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: genesis3sec@gmail.com
+    email: admin@gen3sec.io
     web: https://www.gen3sec.io
     twitter: https://twitter.com/gen3sec
     description: "A guy who loves security and tech."
