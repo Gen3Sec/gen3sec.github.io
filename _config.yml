@@ -3,7 +3,7 @@ name: "Gen3Sec"
 title: "Gen3Sec"
 description: "Fun area to explore all things tech, especially security."
 logo: 'assets/images/g3s_logo.png'
-favicon: /favicon.ico
+favicon: 'assets/images/logo.png'
 baseurl: /
 google_analytics: 'UA-132314113-1'
 disqus: 'gen3sec'
