@@ -57,7 +57,7 @@ I log in. Ok, where do I go to update my password? 4 menus later, I find it. Phe
 
 _Site_: Enter your current password. 
 
-_Me_:Umm ok. I just signed in, passed MFA, and you have a auto-timeout of a couple of minutes, but fine with the password manager, it's a couple of clicks. 
+_Me_: Umm ok. I just signed in, passed MFA, and you have a auto-timeout of a couple of minutes, but fine with the password manager, it's a couple of clicks. 
 
 _Site_: Enter your new password, it must be 12 - 25-characters, have upper and lower case, include a number, and at least one special character. 
 
