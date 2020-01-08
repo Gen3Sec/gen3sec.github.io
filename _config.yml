@@ -16,6 +16,7 @@ authors:
   Gen3Sec:
     name: Gen3Sec
     display_name: Gen3Sec
+    avatar: 'assets/images/avatar.png'
     email: admin@gen3sec.io
     web: https://www.gen3sec.io
     twitter: https://twitter.com/gen3sec
