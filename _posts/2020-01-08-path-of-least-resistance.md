@@ -45,7 +45,7 @@ I have absolutely seen a reduction in sticky note utilization both physically an
 
 ## My Experience
 
-<img src="https://github.com/Gen3Sec/gen3sec.github.io/blob/master/assets/images/password.jpg" alt"Photo by Matthew Brodeur on Unsplash">
+![password]({{ https://github.com/Gen3Sec/gen3sec.github.io }}/assets/images/password.jpg)
 
 With all of that, let's explore my experience from this morning. 
 
