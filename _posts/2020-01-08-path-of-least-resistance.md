@@ -69,9 +69,9 @@ _Me_: Umm yes, no way I am remembering that ridiculous string.
 
 _Password manager_: ok cool, I got it.
 
-_Site_: Wait! Hold on there "Turbo", you can have _those_ special characters! 
+_Site_: Wait! Hold on there, "Turbo", you can have _those_ special characters! 
 
-Ok. I get it cross-site scripting, SQL-injection, yada yada, but ugh. Fine, I'll generate a new password without special characters and through a "good" special character in somewhere randomly.
+_Me_: Ok. I get it cross-site scripting, SQL-injection, yada yada, but ugh. Fine, I'll generate a new password without special characters and through a "good" special character in somewhere randomly.
 
 _Site_: Sounds good, enter current password.
 
