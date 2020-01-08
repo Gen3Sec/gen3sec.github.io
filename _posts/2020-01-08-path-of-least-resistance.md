@@ -45,7 +45,7 @@ I have absolutely seen a reduction in sticky note utilization both physically an
 
 ## My Experience
 
-![Photo by Matthew Brodeur on Unsplash](https://github.com/gen3sec/assets/images/password.jpg "")
+![Photo by Matthew Brodeur on Unsplash](assets/images/password.jpg"")
 
 With all of that, let's explore my experience from this morning. 
 
