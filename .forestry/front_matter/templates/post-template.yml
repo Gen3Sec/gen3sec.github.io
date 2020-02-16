@@ -20,5 +20,3 @@ fields:
 - type: boolean
   name: featured
   label: featured
-pages:
-- _posts/time-for-a-cool-change.md
