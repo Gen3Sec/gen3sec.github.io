@@ -6,7 +6,7 @@ categories:
 - change
 - business
 - career
-image: "/assets/images/JPEG image.jpeg"
+image: /assets/images/JPEG image.jpeg
 featured: false
 
 ---
