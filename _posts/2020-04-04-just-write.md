@@ -4,7 +4,7 @@ title: Just Write
 author: gen3sec
 categories:
 - writing
-image: "/assets/images/aaron-burden-y02jEX_B0O0-unsplash.jpg"
+image: /assets/images/aaron-burden-y02jEX_B0O0-unsplash.jpg
 featured: false
 
 ---
