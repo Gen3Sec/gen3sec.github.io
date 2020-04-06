@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Blogging platform
-author: gen3sec
+author: Gen3Sec
 categories:
 - blogging
 image: ''
@@ -36,4 +36,6 @@ There is a slight technical requirement to using GitHub Pages, but it is not ove
 
 Then, just about the time you get frightened away by the technical necessities, apps like [Forestry](https://app.forestry.io/) step in and give you a free WYSIWYG front end where you can write a post almost exactly like you would in WordPress making the process crazy simple.
 
-All in all, GitHub Pages is a fantastic blogging platform and fits all of my needs perfectly. I suspect it would fit the majority 
+All in all, GitHub Pages is a fantastic blogging platform and fits all of my needs perfectly. I suspect it would fit the majority use-cases. I would at least check it out before spending money on a different platform. 
+
+I will do a step-by-step write-up and standing-it-up as soon as I can. If you have questions before then, drop them in the comments. I'm happy to help if you are interested. 
