@@ -4,7 +4,6 @@ title: Just Write
 author: gen3sec
 categories:
 - writing
-image: /assets/images/just_write.jpg
 featured: false
 
 ---

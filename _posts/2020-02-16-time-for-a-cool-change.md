@@ -6,7 +6,6 @@ categories:
 - change
 - business
 - career
-image: "/assets/images/time_for_change.jpeg"
 featured: false
 
 ---

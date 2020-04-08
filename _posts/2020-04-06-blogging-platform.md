@@ -4,7 +4,6 @@ title: Blogging platform
 author: Gen3Sec
 categories:
 - blogging
-image: ''
 featured: false
 
 ---
